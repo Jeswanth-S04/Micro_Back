@@ -1,0 +1,240 @@
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\appsettings.Development.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\appsettings.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.staticwebassets.endpoints.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.exe
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.deps.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.runtimeconfig.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.pdb
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Humanizer.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\MailKit.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\MimeKit.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\MySqlConnector.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.CodeDom.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.csproj.AssemblyReference.cache
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.AssemblyInfoInputs.cache
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.AssemblyInfo.cs
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.csproj.CoreCompileInputs.cache
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\scopedcss\bundle\BudgetManagementSystem.Api.styles.css
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\staticwebassets.build.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\staticwebassets.development.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetMa.B8910D34.Up2Date
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\refint\BudgetManagementSystem.Api.dll
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.pdb
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.genruntimeconfig.cache
+D:\Desktop Files\LatestMicro\BudgetManagementSystem.Api\obj\Debug\net9.0\ref\BudgetManagementSystem.Api.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\appsettings.Development.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\appsettings.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.staticwebassets.endpoints.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.exe
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.deps.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.runtimeconfig.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\BudgetManagementSystem.Api.pdb
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Humanizer.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\MailKit.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\MimeKit.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\MySqlConnector.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.CodeDom.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.csproj.AssemblyReference.cache
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.AssemblyInfoInputs.cache
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.AssemblyInfo.cs
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.csproj.CoreCompileInputs.cache
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\scopedcss\bundle\BudgetManagementSystem.Api.styles.css
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\staticwebassets.build.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\staticwebassets.development.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetMa.B8910D34.Up2Date
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\refint\BudgetManagementSystem.Api.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.pdb
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.genruntimeconfig.cache
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\ref\BudgetManagementSystem.Api.dll
