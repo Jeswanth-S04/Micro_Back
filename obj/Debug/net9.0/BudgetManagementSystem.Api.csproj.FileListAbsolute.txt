@@ -238,3 +238,4 @@ D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9
 D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.pdb
 D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.genruntimeconfig.cache
 D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\ref\BudgetManagementSystem.Api.dll
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\obj\Debug\net9.0\BudgetManagementSystem.Api.sourcelink.json
