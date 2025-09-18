@@ -183,12 +183,12 @@ namespace BudgetManagementSystem.Api.Services
             if (allocation.Spent >= thresholdValue && allocation.Spent < allocation.Amount)
             {
                 await _notifier.SendThresholdAlertAsync(allocation.DepartmentId, allocation.CategoryId,
-                    $"Nearing limit: {allocation.Department.Name} / {allocation.Category.Name}");
+                    $"Nearing limit: Department: {allocation.Department.Name} on Category: {allocation.Category.Name}");
             }
             else if (allocation.Spent > allocation.Amount)
             {
                 await _notifier.SendThresholdAlertAsync(allocation.DepartmentId, allocation.CategoryId,
-                    $"Exceeded: {allocation.Department.Name} / {allocation.Category.Name}");
+                    $"Threshhold Exceeded: Department: {allocation.Department.Name} on Category: {allocation.Category.Name}");
             }
 
             await _hub.Clients.Group($"dep-{allocation.DepartmentId}").SendAsync("utilizationUpdated");

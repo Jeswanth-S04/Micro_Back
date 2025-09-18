@@ -46,7 +46,7 @@ namespace BudgetManagementSystem.Api.Services
             await _db.SaveChangesAsync();
 
             // FIX: Pass enum name as string
-            await _notifier.NotifyRoleAsync(nameof(UserRole.FinanceAdmin), "New adjustment request",
+            await _notifier.NotifyRoleAsync(nameof(UserRole.FinanceAdmin), $"New Request by {dep.Name}",
                 $"Department {dep.Name} requested {dto.Amount} for {cat.Name}");
 
             await _hub.Clients.Group("role-FinanceAdmin").SendAsync("requestsUpdated");
@@ -102,10 +102,11 @@ namespace BudgetManagementSystem.Api.Services
             var head = await _db.Users.FirstOrDefaultAsync(u => u.DepartmentId == req.DepartmentId && u.Role == UserRole.DepartmentHead);
             if (head != null)
             {
+                int emailamount = (int)Math.Floor(req.Amount); 
                 var subject = dto.Approve ? "Request approved" : "Request rejected";
                 var body = dto.Approve
-                    ? $"Your request #{req.Id} for {req.Amount} in {req.Category.Name} has been approved."
-                    : $"Your request #{req.Id} for {req.Amount} in {req.Category.Name} was rejected. Note: {dto.ReviewerNote}";
+                    ? $"Your request #{req.Id} for {emailamount} in {req.Category.Name} has been approved by Finance Admin."
+                    : $"Your request #{req.Id} for {emailamount} in {req.Category.Name} was rejected. Note: {dto.ReviewerNote}";
                 await _notifier.NotifyUserAsync(head.Id, subject, body);
             }
 

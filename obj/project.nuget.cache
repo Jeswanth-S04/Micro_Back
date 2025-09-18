@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QLI01CbpNvM=",
+  "dgSpecHash": "bzvCQ/JBP/s=",
   "success": true,
   "projectFilePath": "D:\\Simple Budget Allocation Tool Micro\\BudgetManagementSystem.Api\\BudgetManagementSystem.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jeswanth.s\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\jeswanth.s\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\jeswanth.s\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jeswanth.s\\.nuget\\packages\\mailkit\\4.7.1\\mailkit.4.7.1.nupkg.sha512",

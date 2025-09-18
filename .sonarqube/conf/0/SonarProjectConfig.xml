@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\BudgetManagementSystem.Api.csproj</ProjectPath>
+  <FilesToAnalyzePath>D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\.sonarqube\conf\0\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\.sonarqube\out\0</OutPath>
+  <ProjectType>Product</ProjectType>
+  <TargetFramework>net9.0</TargetFramework>
+</SonarProjectConfig>

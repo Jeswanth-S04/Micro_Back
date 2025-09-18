@@ -1,0 +1,2858 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.14.0.0",
+        "fileVersion": "4.14.0-3.25262.10 (8edf7bcd)",
+        "semanticVersion": "4.14.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'data' in 'ApiResponse<IEnumerable<AllocationResponseDto>> ApiResponse<IEnumerable<AllocationResponseDto>>.Ok(IEnumerable<AllocationResponseDto> data, string? message = null)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 78,
+                  "endLine": 91,
+                  "endColumn": 82
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 17,
+                  "endLine": 75,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/appsettings.json",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 27,
+                  "endLine": 3,
+                  "endColumn": 112
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/appsettings.json",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 18,
+                  "endLine": 14,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'MySql:CharSet' 21 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 29,
+                  "endLine": 16,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 37,
+                  "endLine": 27,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 37,
+                  "endLine": 29,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 29,
+                  "endLine": 35,
+                  "endColumn": 44
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 37,
+                  "endLine": 44,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 37,
+                  "endLine": 47,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 29,
+                  "endLine": 54,
+                  "endColumn": 44
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 37,
+                  "endLine": 63,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 29,
+                  "endLine": 69,
+                  "endColumn": 44
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 37,
+                  "endLine": 79,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 37,
+                  "endLine": 81,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 37,
+                  "endLine": 83,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 29,
+                  "endLine": 91,
+                  "endColumn": 44
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 37,
+                  "endLine": 102,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 37,
+                  "endLine": 106,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 29,
+                  "endLine": 127,
+                  "endColumn": 44
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 157,
+                  "startColumn": 29,
+                  "endLine": 157,
+                  "endColumn": 44
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 166,
+                  "startColumn": 37,
+                  "endLine": 166,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 168,
+                  "startColumn": 37,
+                  "endLine": 168,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 37,
+                  "endLine": 170,
+                  "endColumn": 52
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 183,
+                  "startColumn": 29,
+                  "endLine": 183,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "10": null,
+              "11": null,
+              "12": null,
+              "13": null,
+              "14": null,
+              "15": null,
+              "16": null,
+              "17": null,
+              "18": null,
+              "19": null,
+              "2": null,
+              "3": null,
+              "4": null,
+              "5": null,
+              "6": null,
+              "7": null,
+              "8": null,
+              "9": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'utf8mb4' 21 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 46,
+                  "endLine": 16,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 54,
+                  "endLine": 27,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 54,
+                  "endLine": 29,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 46,
+                  "endLine": 35,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 54,
+                  "endLine": 44,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 54,
+                  "endLine": 47,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 46,
+                  "endLine": 54,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 54,
+                  "endLine": 63,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 46,
+                  "endLine": 69,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 79,
+                  "startColumn": 54,
+                  "endLine": 79,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 54,
+                  "endLine": 81,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 54,
+                  "endLine": 83,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 46,
+                  "endLine": 91,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 54,
+                  "endLine": 102,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 54,
+                  "endLine": 106,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 46,
+                  "endLine": 127,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 157,
+                  "startColumn": 46,
+                  "endLine": 157,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 166,
+                  "startColumn": 54,
+                  "endLine": 166,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 168,
+                  "startColumn": 54,
+                  "endLine": 168,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 170,
+                  "startColumn": 54,
+                  "endLine": 170,
+                  "endColumn": 63
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 183,
+                  "startColumn": 46,
+                  "endLine": 183,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "10": null,
+              "11": null,
+              "12": null,
+              "13": null,
+              "14": null,
+              "15": null,
+              "16": null,
+              "17": null,
+              "18": null,
+              "19": null,
+              "2": null,
+              "3": null,
+              "4": null,
+              "5": null,
+              "6": null,
+              "7": null,
+              "8": null,
+              "9": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'MySql:ValueGenerationStrategy' 7 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 37,
+                  "endLine": 23,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 37,
+                  "endLine": 42,
+                  "endColumn": 68
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 37,
+                  "endLine": 61,
+                  "endColumn": 68
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 37,
+                  "endLine": 76,
+                  "endColumn": 68
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 98,
+                  "startColumn": 37,
+                  "endLine": 98,
+                  "endColumn": 68
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 134,
+                  "startColumn": 37,
+                  "endLine": 134,
+                  "endColumn": 68
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 164,
+                  "startColumn": 37,
+                  "endLine": 164,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null,
+              "4": null,
+              "5": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'datetime(6)' 5 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 62,
+                  "endLine": 24,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 62,
+                  "endLine": 85,
+                  "endColumn": 75
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 62,
+                  "endLine": 107,
+                  "endColumn": 75
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 63,
+                  "endLine": 108,
+                  "endColumn": 76
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 139,
+                  "startColumn": 62,
+                  "endLine": 139,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'longtext' 7 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 57,
+                  "endLine": 26,
+                  "endColumn": 67
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 58,
+                  "endLine": 28,
+                  "endColumn": 68
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 61,
+                  "endLine": 78,
+                  "endColumn": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 56,
+                  "endLine": 80,
+                  "endColumn": 66
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 58,
+                  "endLine": 82,
+                  "endColumn": 68
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 105,
+                  "startColumn": 63,
+                  "endLine": 105,
+                  "endColumn": 73
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 169,
+                  "startColumn": 63,
+                  "endLine": 169,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null,
+              "4": null,
+              "5": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'BudgetCategories' 5 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 23,
+                  "endLine": 38,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 117,
+                  "startColumn": 41,
+                  "endLine": 117,
+                  "endColumn": 59
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 147,
+                  "startColumn": 41,
+                  "endLine": 147,
+                  "endColumn": 59
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 24,
+                  "endLine": 207,
+                  "endColumn": 42
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 248,
+                  "startColumn": 23,
+                  "endLine": 248,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'decimal(65,30)' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 57,
+                  "endLine": 45,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 58,
+                  "endLine": 103,
+                  "endColumn": 74
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 137,
+                  "startColumn": 58,
+                  "endLine": 137,
+                  "endColumn": 74
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 138,
+                  "startColumn": 57,
+                  "endLine": 138,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Departments' 6 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 23,
+                  "endLine": 57,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 123,
+                  "startColumn": 41,
+                  "endLine": 123,
+                  "endColumn": 54
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 153,
+                  "startColumn": 41,
+                  "endLine": 153,
+                  "endColumn": 54
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 180,
+                  "startColumn": 41,
+                  "endLine": 180,
+                  "endColumn": 54
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 213,
+                  "startColumn": 24,
+                  "endLine": 213,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 251,
+                  "startColumn": 23,
+                  "endLine": 251,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null,
+              "4": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'AdjustmentRequests' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 94,
+                  "startColumn": 23,
+                  "endLine": 94,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 187,
+                  "startColumn": 24,
+                  "endLine": 187,
+                  "endColumn": 44
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 192,
+                  "startColumn": 24,
+                  "endLine": 192,
+                  "endColumn": 44
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 233,
+                  "startColumn": 23,
+                  "endLine": 233,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Allocations' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 130,
+                  "startColumn": 23,
+                  "endLine": 130,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 197,
+                  "startColumn": 24,
+                  "endLine": 197,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 202,
+                  "startColumn": 24,
+                  "endLine": 202,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 236,
+                  "startColumn": 23,
+                  "endLine": 236,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Users' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 160,
+                  "startColumn": 23,
+                  "endLine": 160,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 219,
+                  "startColumn": 24,
+                  "endLine": 219,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 224,
+                  "startColumn": 24,
+                  "endLine": 224,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 245,
+                  "startColumn": 23,
+                  "endLine": 245,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S2094",
+          "level": "warning",
+          "message": "Remove this empty class, write its code or make it an \"interface\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/DTOs/CategoryDtos.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 18,
+                  "endLine": 18,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'DepartmentId' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 60,
+                  "endLine": 70,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 224,
+                  "startColumn": 60,
+                  "endLine": 224,
+                  "endColumn": 74
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 306,
+                  "startColumn": 60,
+                  "endLine": 306,
+                  "endColumn": 74
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 381,
+                  "startColumn": 60,
+                  "endLine": 381,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S2325",
+          "level": "warning",
+          "message": "Make 'Hash' a static method.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Helpers/PasswordHasher.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 23,
+                  "endLine": 8,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1185",
+          "level": "warning",
+          "message": "Remove this method 'OnConnectedAsync' to simply inherit its behavior.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Hubs/BudgetHub.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 9,
+                  "endLine": 13,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2325",
+          "level": "warning",
+          "message": "Make 'HashPassword' a static method.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 24,
+                  "endLine": 23,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3358",
+          "level": "warning",
+          "message": "Extract this nested ternary operation into an independent statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/DTOs/AllocationDtos.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 32,
+                  "endLine": 70,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2325",
+          "level": "warning",
+          "message": "Make 'Verify' a static method.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Helpers/PasswordHasher.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 21,
+                  "endLine": 15,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1850",
+          "level": "note",
+          "message": "Prefer static 'System.Security.Cryptography.SHA256.HashData' method over 'ComputeHash'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 35,
+                  "endLine": 28,
+                  "endColumn": 93
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 24,
+                  "endLine": 25,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "ComputeTypePropertyKey": "ComputeHash",
+              "DeleteHashCreationPropertyKey": "DeleteHashCreationPropertyKey",
+              "HashCreationIndexPropertyKey": "0",
+              "TargetHashTypeDiagnosticPropertyKey": "SHA256"
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 30,
+                  "endLine": 53,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 17,
+                  "endLine": 55,
+                  "endColumn": 67
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 17,
+                  "endLine": 56,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/DTOs/RequestDtos.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 31,
+                  "endLine": 8,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/DTOs/RequestDtos.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 31,
+                  "endLine": 9,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/DTOs/RequestDtos.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 31,
+                  "endLine": 16,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/DTOs/RequestDtos.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 32,
+                  "endLine": 17,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/CategoryService.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 31,
+                  "endLine": 18,
+                  "endColumn": 89
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/RequestService.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 82,
+                  "endLine": 27,
+                  "endColumn": 119
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/RequestService.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 85,
+                  "endLine": 28,
+                  "endColumn": 120
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/AuthService.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 23,
+                  "endLine": 31,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/CategoryService.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 80,
+                  "endLine": 43,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/CategoryService.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 76,
+                  "endLine": 65,
+                  "endColumn": 111
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 30,
+                  "endLine": 80,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 17,
+                  "endLine": 82,
+                  "endColumn": 75
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 17,
+                  "endLine": 83,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/DTOs/CategoryDtos.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 31,
+                  "endLine": 15,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/AllocationService.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 82,
+                  "endLine": 26,
+                  "endColumn": 119
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/AllocationService.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 85,
+                  "endLine": 27,
+                  "endColumn": 120
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/AllocationService.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 23,
+                  "endLine": 32,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6667",
+          "level": "warning",
+          "message": "Logging in a catch clause should pass the caught exception as a parameter.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 141,
+                  "startColumn": 17,
+                  "endLine": 141,
+                  "endColumn": 118
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6667",
+          "level": "warning",
+          "message": "Logging in a catch clause should pass the caught exception as a parameter.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 197,
+                  "startColumn": 17,
+                  "endLine": 197,
+                  "endColumn": 118
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 142,
+                  "startColumn": 30,
+                  "endLine": 142,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 144,
+                  "startColumn": 17,
+                  "endLine": 144,
+                  "endColumn": 84
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 17,
+                  "endLine": 145,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/DTOs/UserUpdateDto.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 20,
+                  "endLine": 9,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 256,
+                  "startColumn": 30,
+                  "endLine": 256,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 258,
+                  "startColumn": 17,
+                  "endLine": 258,
+                  "endColumn": 73
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 259,
+                  "startColumn": 17,
+                  "endLine": 259,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S2139",
+          "level": "warning",
+          "message": "Either log this exception and handle it, or rethrow it with some contextual information.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 212,
+                  "startColumn": 30,
+                  "endLine": 212,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 214,
+                  "startColumn": 17,
+                  "endLine": 214,
+                  "endColumn": 77
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 215,
+                  "startColumn": 17,
+                  "endLine": 215,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Logging statement.",
+              "1": "Thrown exception."
+            }
+          }
+        },
+        {
+          "ruleId": "S6667",
+          "level": "warning",
+          "message": "Logging in a catch clause should pass the caught exception as a parameter.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 276,
+                  "startColumn": 17,
+                  "endLine": 276,
+                  "endColumn": 126
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/AllocationService.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 78,
+                  "endLine": 70,
+                  "endColumn": 115
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 21,
+                  "endLine": 240,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 238,
+                  "startColumn": 17,
+                  "endLine": 238,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null
+            }
+          }
+        },
+        {
+          "ruleId": "CA1862",
+          "level": "note",
+          "message": "Prefer using 'string.Equals(string, StringComparison)' to perform a case-insensitive comparison, but keep in mind that this might cause subtle changes in behavior, so make sure to conduct thorough testing after applying the suggestion, or if culturally sensitive comparison is not required, consider using 'StringComparison.OrdinalIgnoreCase'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 33,
+                  "endLine": 93,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "LeftOffendingMethod": "ToLower",
+              "RightOffendingMethod": "ToLower"
+            }
+          }
+        },
+        {
+          "ruleId": "S6667",
+          "level": "warning",
+          "message": "Logging in a catch clause should pass the caught exception as a parameter.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 359,
+                  "startColumn": 17,
+                  "endLine": 359,
+                  "endColumn": 126
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 385,
+                  "startColumn": 21,
+                  "endLine": 385,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 383,
+                  "startColumn": 17,
+                  "endLine": 383,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null
+            }
+          }
+        },
+        {
+          "ruleId": "S3358",
+          "level": "warning",
+          "message": "Extract this nested ternary operation into an independent statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/ManagementController.cs",
+                "region": {
+                  "startLine": 226,
+                  "startColumn": 75,
+                  "endLine": 226,
+                  "endColumn": 121
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 322,
+                  "startColumn": 21,
+                  "endLine": 322,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Controllers/AllocationsController.cs",
+                "region": {
+                  "startLine": 320,
+                  "startColumn": 17,
+                  "endLine": 320,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null
+            }
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/RequestService.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 75,
+                  "endLine": 60,
+                  "endColumn": 109
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/RequestService.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 60,
+                  "endLine": 62,
+                  "endColumn": 101
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/AllocationService.cs",
+                "region": {
+                  "startLine": 168,
+                  "startColumn": 26,
+                  "endLine": 168,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await MigrateAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Program.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 5,
+                  "endLine": 102,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await AnyAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Program.cs",
+                "region": {
+                  "startLine": 105,
+                  "startColumn": 10,
+                  "endLine": 105,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await SaveChangesAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Program.cs",
+                "region": {
+                  "startLine": 133,
+                  "startColumn": 9,
+                  "endLine": 133,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await RunAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Program.cs",
+                "region": {
+                  "startLine": 155,
+                  "startColumn": 1,
+                  "endLine": 155,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1862",
+          "level": "note",
+          "message": "Prefer using 'string.Equals(string, StringComparison)' to perform a case-insensitive comparison, but keep in mind that this might cause subtle changes in behavior, so make sure to conduct thorough testing after applying the suggestion, or if culturally sensitive comparison is not required, consider using 'StringComparison.OrdinalIgnoreCase'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 164,
+                  "startColumn": 33,
+                  "endLine": 164,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "LeftOffendingMethod": "ToLower",
+              "RightOffendingMethod": "ToLower"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'HashPassword' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Services/UserService.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 24,
+                  "endLine": 23,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Prefer 'static readonly' fields over constant array arguments if the called method is called repeatedly and is not mutating the passed array",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Simple%20Budget%20Allocation%20Tool%20Micro/BudgetManagementSystem.Api/Migrations/20250916042615_firstmig.cs",
+                "region": {
+                  "startLine": 208,
+                  "startColumn": 26,
+                  "endLine": 208,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "columns"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CA1822": {
+          "id": "CA1822",
+          "shortDescription": "Mark members as static",
+          "fullDescription": "Members that do not access instance data or call instance methods can be marked as static. After you mark the methods as static, the compiler will emit nonvirtual call sites to these members. This can give you a measurable performance gain for performance-sensitive code.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1850": {
+          "id": "CA1850",
+          "shortDescription": "Prefer static 'HashData' method over 'ComputeHash'",
+          "fullDescription": "It is more efficient to use the static 'HashData' method over creating and managing a HashAlgorithm instance to call 'ComputeHash'.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1850",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1861": {
+          "id": "CA1861",
+          "shortDescription": "Avoid constant arrays as arguments",
+          "fullDescription": "Constant arrays passed as arguments are not reused when called repeatedly, which implies a new array is created each time. Consider extracting them to 'static readonly' fields to improve performance if the passed array is not mutated within the called method.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1861",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1862": {
+          "id": "CA1862",
+          "shortDescription": "Use the 'StringComparison' method overloads to perform case-insensitive string comparisons",
+          "fullDescription": "Avoid calling 'ToLower', 'ToUpper', 'ToLowerInvariant' and 'ToUpperInvariant' to perform case-insensitive string comparisons, as in 'string.ToLower() == string.ToLower()', because they lead to an allocation. Instead, use 'string.Equals(string, StringComparison)' to perform case-insensitive comparisons. Switching to using an overload that takes a 'StringComparison' might cause subtle changes in behavior, so it's important to conduct thorough testing after applying the suggestion. Additionally, if a culturally sensitive comparison is not required, consider using 'StringComparison.OrdinalIgnoreCase'.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1862",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Possible null reference argument.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1066": {
+          "id": "S1066",
+          "shortDescription": "Mergeable \"if\" statements should be combined",
+          "fullDescription": "Nested code - blocks of code inside blocks of code - is eventually necessary, but increases complexity. This is why keeping the code as flat as possible, by avoiding unnecessary nesting, is considered a good practice.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1066",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S112": {
+          "id": "S112",
+          "shortDescription": "General or reserved exceptions should never be thrown",
+          "fullDescription": "This rule raises an issue when a general or reserved exception is thrown.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-112",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1185": {
+          "id": "S1185",
+          "shortDescription": "Overriding members should do more than simply call the same member in the base class",
+          "fullDescription": "Overriding a method just to call the same method from the base class without performing any other actions is useless and misleading. The only time this is justified is in sealed overriding methods, where the effect is to lock in the parent class behavior. This rule ignores overrides of Equals and GetHashCode.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1185",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1192": {
+          "id": "S1192",
+          "shortDescription": "String literals should not be duplicated",
+          "fullDescription": "Duplicated string literals make the process of refactoring complex and error-prone, as any change would need to be propagated on all occurrences.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1192",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Commented-out code distracts the focus from the actual executed code. It creates a noise that increases maintenance code. And because it is never executed, it quickly becomes out of date and invalid.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2068": {
+          "id": "S2068",
+          "shortDescription": "Hard-coded credentials are security-sensitive",
+          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
+          "properties": {
+            "category": "Blocker Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2094": {
+          "id": "S2094",
+          "shortDescription": "Classes should not be empty",
+          "fullDescription": "There is no good excuse for an empty class. If it’s being used simply as a common extension point, it should be replaced with an interface. If it was stubbed in as a placeholder for future development it should be fleshed-out. In any other case, it should be eliminated.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2094",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2139": {
+          "id": "S2139",
+          "shortDescription": "Exceptions should be either logged or rethrown but not both",
+          "fullDescription": "When an exception is logged and rethrown, the upstream code may not be aware that the exception has already been logged. As a result, the same exception gets logged multiple times, making it difficult to identify the root cause of the issue. This can be particularly problematic in multi-threaded applications where messages from other threads can be interwoven with the repeated log entries.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2139",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2325": {
+          "id": "S2325",
+          "shortDescription": "Methods and properties that don't access instance data should be static",
+          "fullDescription": "Methods and properties that don’t access instance data should be marked as static for the following reasons:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2325",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3358": {
+          "id": "S3358",
+          "shortDescription": "Ternary operators should not be nested",
+          "fullDescription": "Nested ternaries are hard to read and can make the order of operations complex to understand.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3358",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6667": {
+          "id": "S6667",
+          "shortDescription": "Logging in a catch clause should pass the caught exception as a parameter.",
+          "fullDescription": "This rule raises an issue on logging calls inside a catch clause that does not pass the raised Exception.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6667",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6964": {
+          "id": "S6964",
+          "shortDescription": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "fullDescription": "\"Under-posting\" refers to a situation where a client sends less data than expected to the server during an HTTP request, for example when the client omits some properties from the request body that the server expects to receive.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6964",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6966": {
+          "id": "S6966",
+          "shortDescription": "Awaitable method should be used",
+          "fullDescription": "In an async method, any blocking operations should be avoided.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6966",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

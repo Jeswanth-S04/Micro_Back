@@ -1,0 +1,1 @@
+D:\Simple Budget Allocation Tool Micro\BudgetManagementSystem.Api\.sonarqube\out\0

@@ -83,17 +83,19 @@ builder.Services.AddControllers().AddJsonOptions(o =>
     o.JsonSerializerOptions.PropertyNamingPolicy = null;
 });
 
-// ✅ SignalR
+// SignalR
 builder.Services.AddSignalR();
 
-// ✅ Swagger
+// Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// ✅ Build app
+// Build app
 var app = builder.Build();
 
-// ✅ Apply migrations + seed data
+// builder.Services.AddScoped<IUserService, UserService>();
+
+// Apply migrations + seed data
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
