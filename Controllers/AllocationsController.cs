@@ -65,23 +65,14 @@ namespace BudgetManagementSystem.Api.Controllers
         {
             try
             {
-                // ✅ FIXED: Authorization check with proper error response
+               
                 var userRole = User.FindFirstValue(ClaimTypes.Role);
                 var userDepartmentId = User.FindFirstValue("DepartmentId");
 
                 _logger.LogInformation("GetByDepartment: UserRole={UserRole}, UserDepartmentId={UserDepartmentId}, RequestedDepartmentId={RequestedDepartmentId}", 
                     userRole, userDepartmentId, departmentId);
 
-                // if (userRole == nameof(UserRole.DepartmentHead))
-                // {
-                //     if (string.IsNullOrEmpty(userDepartmentId) || int.Parse(userDepartmentId) != departmentId)
-                //     {
-                //         // ✅ FIXED: Return proper 403 response instead of Forbid()
-                //         return StatusCode(403, ApiResponse<IEnumerable<AllocationResponseDto>>.Fail(
-                //             "Access denied. Department Heads can only view their own department allocations."
-                //         ));
-                //     }
-                // }
+               
 
                 var list = await _service.GetByDepartmentAsync(departmentId);
 
@@ -234,12 +225,12 @@ namespace BudgetManagementSystem.Api.Controllers
                     return NotFound(ApiResponse<object>.Fail($"Allocation with ID {allocationId} not found"));
                 }
 
-                // ✅ FIXED: Authorization check with proper error response
+                
                 if (userRole == nameof(UserRole.DepartmentHead))
                 {
                     if (string.IsNullOrEmpty(userDepartmentId) || int.Parse(userDepartmentId) != allocation.DepartmentId)
                     {
-                        // ✅ FIXED: Return proper 403 response instead of Forbid()
+                  
                         return StatusCode(403, ApiResponse<object>.Fail(
                             "Access denied. Department Heads can only update their own department allocations."
                         ));
@@ -316,12 +307,12 @@ namespace BudgetManagementSystem.Api.Controllers
                     return NotFound(ApiResponse<object>.Fail($"Allocation with ID {allocationId} not found"));
                 }
 
-                // ✅ FIXED: Authorization check with proper error response
+               
                 if (userRole == nameof(UserRole.DepartmentHead))
                 {
                     if (string.IsNullOrEmpty(userDepartmentId) || int.Parse(userDepartmentId) != allocation.DepartmentId)
                     {
-                        // ✅ FIXED: Return proper 403 response instead of Forbid()
+                   
                         return StatusCode(403, ApiResponse<object>.Fail(
                             "Access denied. Department Heads can only update their own department allocations."
                         ));
@@ -376,7 +367,7 @@ namespace BudgetManagementSystem.Api.Controllers
         {
             try
             {
-                // ✅ FIXED: Authorization check with proper error response
+     
                 var userRole = User.FindFirstValue(ClaimTypes.Role);
                 var userDepartmentId = User.FindFirstValue("DepartmentId");
 
@@ -384,7 +375,7 @@ namespace BudgetManagementSystem.Api.Controllers
                 {
                     if (string.IsNullOrEmpty(userDepartmentId) || int.Parse(userDepartmentId) != departmentId)
                     {
-                        // ✅ FIXED: Return proper 403 response instead of Forbid()
+                
                         return StatusCode(403, ApiResponse<object>.Fail(
                             "Access denied. Department Heads can only view their own department statistics."
                         ));
